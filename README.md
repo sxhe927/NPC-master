@@ -1,4 +1,5 @@
 # cse6140
+
 To run: 
 
 java -jar MVC.jar -inst <path_to_graph> -alg <LS1/LS2/Approx/BnB> -time <in seconds> -seed <any number>
