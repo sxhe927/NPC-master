@@ -1,12 +1,15 @@
 This is a project for cse6140 in Georgia Tech
 
 ====================
+
 The Minimum Vertex Cover problem has numerous applications in various fields such as operations research, routing and management of resources, etc. The decision version of this problem is a well known NP-complete problem. In this project, three algorithms were used in the hope of approaching the splution, namely an exact Branch and Bound algorithm, an approximation algorithm and two local search algorithms.
 
 ====================
+
 In the data folder, some real-world data with different sizes are provided for testing.
 
 ====================
+
 To run: 
 
 java -jar MVC.jar -inst <path_to_graph> -alg <LS1/LS2/Approx/BnB> -time <in seconds> -seed <any number>
@@ -16,6 +19,7 @@ For eg:
 java -jar MVC.jar -inst Data/star.graph -alg LS1 -time 30 -seed 1
 
 ====================
+
 The code folder contains all the source code for the algorithms
 
 The output folder contains output .sol and .trace files
