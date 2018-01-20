@@ -1,5 +1,6 @@
 # This is a project for cse6140 in Georgia Tech
 
+This is a project for cse6140 in Georgia Tech
 ====================
 The Minimum Vertex Cover problem has numerous applications in various fields such as operations research, routing and management of resources, etc. The decision version of this problem is a well known NP-complete problem. In this project, three algorithms were used in the hope of approaching the splution, namely an exact Branch and Bound algorithm, an approximation algorithm and two local search algorithms.
 ====================
