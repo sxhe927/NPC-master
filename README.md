@@ -1,4 +1,4 @@
-# cse6140
+# This is a project for cse6140 in Georgia Tech
 
 To run: 
 
